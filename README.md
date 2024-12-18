@@ -8,7 +8,7 @@ Because it is used when adding images, but these gestures need it, I think.
 
 I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and
 programming.👩🏻‍💻  
-I have recently started my learning journey through th MIT Emerging Talent Program.🐣
+I have recently started my learning journey through the MIT Emerging Talent Program.🐣
 <!--My name is an unknown word apparently but i hope it isn't a problem. 😅-->
 
 ### My Learning Goals🎯
