@@ -1,6 +1,6 @@
 ## Hello World! Hallo Welt! Merhaba Dünya!🌎
 
-![alt text](image.png)
+![alt text](hey-cat.gif)
 
 <!--I know markdown doesn't want us to use an exclamation mark like this.
 Because it is used when adding images, but these gestures need it, I think.
@@ -64,7 +64,7 @@ But there is no stopping, I will keep moving forward.🚀
 
 Until next time, happy coding and remember to save your work, everybody.🙋🏻‍♀️
 
-![alt text](image-1.png)
+![alt text](hi-bye.gif)
 
 _And one more thing,_
 completely off the topic, but I would like to share a [song][a] I love.
