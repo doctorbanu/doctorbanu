@@ -1,10 +1,10 @@
 ## Hello World! Hallo Welt! Merhaba Dünya!🌎
 
-![alt text](hey-cat.gif)
-
 <!--I know markdown doesn't want us to use an exclamation mark like this.
 Because it is used when adding images, but these gestures need it, I think.
 'Merhaba Dünya' is Turkish.-->
+
+![alt text](hey-cat.gif)
 
 I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and
 programming.👩🏻‍💻  
@@ -59,6 +59,11 @@ the more I realize Socrates was right: _'I know that I know nothing.'_
 But there is no stopping, I will keep moving forward.🚀
 
 ---
+
+### Let's Connect! 📨
+
+Have questions, ideas, or just want to say 'hi'?
+Reach me at: [banuozyilmaz@gmail.com](mailto:banuozyilmaz@gmail.com)
 
 ### Wrapping Up🔚
 
