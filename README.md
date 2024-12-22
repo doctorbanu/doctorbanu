@@ -62,6 +62,9 @@ But there is no stopping, I will keep moving forward.🚀
 
 ### Let's Connect! 📨
 
+<!--I know markdown doesn't want us to use an exclamation mark like this. But 
+I think, it looks good here.-->
+
 Have questions, ideas, or just want to say 'hi'?
 Reach me at: [banuozyilmaz@gmail.com](mailto:banuozyilmaz@gmail.com)
 
