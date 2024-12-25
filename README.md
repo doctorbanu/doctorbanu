@@ -62,11 +62,15 @@ But there is no stopping, I will keep moving forward.🚀
 
 ### Let's Connect! 📨
 
-<!--I know markdown doesn't want us to use an exclamation mark like this. But 
-I think, it looks good here.-->
+<!--I know markdown doesn't want us to use an exclamation mark like these.
+But I think, they look good.(line 63, 68, 72)-->
 
-Have questions, ideas, or just want to say 'hi'?
+Hey, thanks for stopping by!🎈 If you'd like to chat, collaborate, or just share
+some good jokes,  
 Reach me at: [banuozyilmaz@gmail.com](mailto:banuozyilmaz@gmail.com)
+
+**PS:** Memes and jokes always get a quicker reply.💨  
+_(Just kidding!😂)_
 
 ### Wrapping Up🔚
 
