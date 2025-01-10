@@ -6,59 +6,58 @@ Because it is used when adding images, but these gestures need it, I think.
 
 ![alt text](hey-cat.gif)
 
-I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and
-programming.👩🏻‍💻  
+I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and programming.👩🏻‍💻
 I have recently started my learning journey through the MIT Emerging Talent Program.🐣
+
 <!--My name is an unknown word apparently but i hope it isn't a problem. 😅-->
 
 ### My Learning Goals🎯
 
-* Learn programming from the basics
-* Gain and develop Python skills
-* Explore how technology can be applied in the healthcare field
+- Learn programming from the basics
+- Gain and develop Python skills
+- Explore how technology can be applied in the healthcare field
 
 ### What I am Currently Learning🪴
 
-* Introduction to Python programming
-* Predictive Stepping and Debugging in Python
-* Basic algorithms and problem-solving methods
+- Introduction to Python programming
+- Predictive Stepping and Debugging in Python
+- Basic Git commands and using Github for collaboration
+- Basic algorithms and problem-solving methods
 
 ### My Short-Term Plan📖
 
-* Learn how to use Git and GitHub effectively
-* Practice coding more comfortably
+- Learn how to use Git and GitHub effectively
+- Practice coding more comfortably
 
----
-  
+______________________________________________________________________
+
 ### Talking to Myself Corner💭
 
-**A Story: From Being a Doctor to Trying to Become a Computer Witch🧙🏻‍♀️  
+**A Story: From Being a Doctor to Trying to Become a Computer Witch🧙🏻‍♀️\
 -_Ops, I mean Whiz, Computer Whiz_**
 
-Yesterday, when I was in med-school, I considered myself _smart_.  
+Yesterday, when I was in med-school, I considered myself _smart_.
 
->I always thought that dealing with humans was challenging.
-Because humans are not like computers,
-where the same input always produces the same output.
+> I always thought that dealing with humans was challenging. Because humans are
+> not like computers, where the same input always produces the same output.🔄️
 
-Today, I've joined the MIT Emerging Talent Program to build some
-computer skills, I considered myself _enlightened_.  
+Today, I've joined the MIT Emerging Talent Program to build some computer skills,
+I considered myself _enlightened_.
 
->Because, at least all humans speak a human language,
-and with the help of translators,
-we can find a way to communicate and deal with humans.
-But the language of computers feels like technological magic,
-and I am not even sure how to provide the correct inputs yet.
+> Because, at least all humans speak a human language, and with the help of translators,
+> we can find a way to communicate and deal with humans. But the language of
+> computers feels like technological magic🪄, and I am not even sure how to provide
+> the correct inputs yet.
 
 A message sent back from tomorrow, I am in the middle of the program,
 I consider myself _wise_.
 
->I'm making slow and steady progress towards becoming a computer witch :)
-I've learned so much about computers and coding, but the more I learn,
-the more I realize Socrates was right: _'I know that I know nothing.'_
-But there is no stopping, I will keep moving forward.🚀
+> I'm making slow and steady progress towards becoming a computer witch :) I've
+> learned so much about computers and coding, but the more I learn, the more I
+> realize Socrates was right: _'I know that I know nothing.'_
+> But there is no stopping, I will keep moving forward.🚀
 
----
+______________________________________________________________________
 
 ### Let's Connect! 📨
 
@@ -66,10 +65,10 @@ But there is no stopping, I will keep moving forward.🚀
 But I think, they look good.(line 63, 68, 72)-->
 
 Hey, thanks for stopping by!🎈 If you'd like to chat, collaborate, or just share
-some good jokes,  
+some good jokes,\
 Reach me at: [banuozyilmaz@gmail.com](mailto:banuozyilmaz@gmail.com)
 
-**PS:** Memes and jokes always get a quicker reply.💨  
+**PS:** Memes and jokes always get a quicker reply.💨\
 _(Just kidding!😂)_
 
 ### Wrapping Up🔚
