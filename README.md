@@ -4,9 +4,14 @@
 Because it is used when adding images, but these gestures need it, I think.
 'Merhaba Dünya' is Turkish.-->
 
+<!--And normally, it is better having Header1 on the top, but it is
+too big and does not look good in my opinion. Since I have Header2 at the top,
+I need to use Header3 for subheadings.-->
+
 ![alt text](hey-cat.gif)
 
-I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and programming.👩🏻‍💻
+I'm Banu, a medical doctor👩🏻‍⚕️ exploring the world of technology and
+ programming.👩🏻‍💻  
 I have recently started my learning journey through the MIT Emerging Talent Program.🐣
 
 <!--My name is an unknown word apparently but i hope it isn't a problem. 😅-->
@@ -77,7 +82,7 @@ Until next time, happy coding and remember to save your work, everybody.🙋🏻
 
 ![alt text](hi-bye.gif)
 
-_And one more thing,_
+_And one more thing,_  
 completely off the topic, but I would like to share a [song][a] I love.
 As they share the same name with GIT.😄🎵
 
